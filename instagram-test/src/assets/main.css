@@ -1,11 +1,17 @@
 @import "tailwindcss";
 
-#app {
+/* #app {
   max-width: screen;
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
   background-color: black;
+} */
+
+@theme {
+  --breakpoint-xs: 30rem;
+  --breakpoint-xxs: 20rem;
+  --breakpoint-xxxs: 18rem;
 }
 
 :root {
