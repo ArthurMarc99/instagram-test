@@ -1,5 +1,6 @@
 <template>
-    <div class="flex justify-between items-center w-[480px] pb-2 pr-2 pl-2">
+    <div>
+        <div class="flex justify-between items-center w-[480px] pb-2 pr-2 pl-2">
         <div class="rounded hover:bg-gray-500 pt-1">
             <div class="flex border-5 border-transparent rounded-full">
                 <img src="/assets/images/smiling.png" alt="Me" class="h-22 w-22 rounded-full">
@@ -34,4 +35,6 @@
             </div>
         </div>
     </div>
+    </div>
+    
 </template>

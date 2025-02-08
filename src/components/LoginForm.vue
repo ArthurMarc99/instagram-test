@@ -5,7 +5,7 @@
                 <img class="w-64 h-16 m-1 max-w-none object-contain" src="/assets/images/instagram_word.png" />
             </div>
             <div>
-                <div class="justify-center mb-2">
+                <div class="justify-center flex mb-2">
                     <input 
                         v-model="username"
                         class="container h-9 p-2 bg-[#121212] text-xs text-white border border-[#555555] rounded-xs focus:outline-none focus:border-[#555555] " 
@@ -13,7 +13,7 @@
                         placeholder="Phone number, username, or email" 
                         required>
                 </div>
-                <div class="justify-center mb-3 text-white">
+                <div class="justify-center flex mb-3">
                     <input 
                         v-model="password"
                         class="container h-9 mb-1 p-2 bg-[#121212] text-xs text-white border border-[#555555] rounded-xs focus:outline-none focus:border-[#555555]" 

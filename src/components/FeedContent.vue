@@ -27,41 +27,37 @@
         </div>
       </div>
     </div>
-    <div class="">
-      <div class="flex justify-between p-3">
-        <div class="flex gap-3">
-          <div>
-            <div class="flex items-center gap-1 hover:opacity-50">
-              <a href="#"><img class="h-7" src="/assets/images/heart.png" alt=""></a>
-              <span class="text-white font-semibold">1,000</span>
-            </div>
-          </div>
-          <div>
-            <div class="flex items-center gap-1 hover:opacity-50">
-              <a href="#"><img class="h-7" src="/assets/images/comments.png" alt=""></a>
-              <span class="text-white font-semibold">1,000</span>
-            </div>
-          </div>
-          <div>
-            <div class="flex items-center gap-1 hover:opacity-50">
-              <a href="#"><img class="h-7" src="/assets/images/share.png" alt=""></a>
-              <span class="text-white font-semibold">1,000</span>
-            </div>
+    <div class="flex justify-between p-3">
+      <div class="flex gap-3">
+        <div>
+          <div class="flex items-center gap-1 hover:opacity-50">
+            <a href="#"><img class="h-7" src="/assets/images/heart.png" alt=""></a>
+            <span class="text-white font-semibold">1,000</span>
           </div>
         </div>
         <div>
-          <a href="#"><img class="h-7 hover:opacity-50" src="/assets/images/save.png" alt=""></a>
+          <div class="flex items-center gap-1 hover:opacity-50">
+            <a href="#"><img class="h-7" src="/assets/images/comments.png" alt=""></a>
+            <span class="text-white font-semibold">1,000</span>
+          </div>
+        </div>
+        <div>
+          <div class="flex items-center gap-1 hover:opacity-50">
+            <a href="#"><img class="h-7" src="/assets/images/share.png" alt=""></a>
+            <span class="text-white font-semibold">1,000</span>
+          </div>
         </div>
       </div>
-      <div class="flex text-white gap-2">
-        <a href="#"><span class="font-semibold">Guy</span></a>
-        <p>King of the Skies !!! </p>
+      <div>
+        <a href="#"><img class="h-7 hover:opacity-50" src="/assets/images/save.png" alt=""></a>
       </div>
-      
-      <span class="text-xs text-gray-400">January 1, 2025</span>
+    </div>
+    <div class="flex text-white gap-2">
+      <a href="#"><span class="font-semibold">Guy</span></a>
+      <p>King of the Skies !!! </p>
     </div>
     
-    
+    <span class="text-xs text-gray-400">January 1, 2025</span>
   </div>
   
 </template>
