@@ -10,7 +10,7 @@ import HomePage from './components/HomePage.vue';
   <div class="flex flex-col min-h-screen">
     <div class="flex flex-grow justify-center items-center mt-12 w-full">
       <div class="flex w-full flex-wrap justify-center">
-        <div class="w-full lg:w-1/2 p-4">
+        <div class="w-full lg:w-1/2 ">
           <div>
             <HomePage />
           </div>
