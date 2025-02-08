@@ -2,7 +2,7 @@
     <div class="p-6 w-88 border xs:border-[#363636] rounded-xs mb-3">
         <form>
             <div class="flex justify-center mt-2 mb-8">
-                <img class="w-64 h-16 m-1 max-w-none object-contain" src="/assets/images/Instagram_word.png" />
+                <img class="w-64 h-16 m-1 max-w-none object-contain" src="/assets/images/instagram_word.png" />
             </div>
             <div>
                 <div class="justify-center mb-2">
