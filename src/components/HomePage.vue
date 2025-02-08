@@ -14,7 +14,7 @@
 </template>
 
 <script setup>
-import TopBar from './TobBar.vue';
+import TopBar from './TopBar.vue';
 import AvailableContacts from './AvailableContacts.vue';
 import FeedContent from './FeedContent.vue';
 import NavigationBar from './NavigationBar.vue';
