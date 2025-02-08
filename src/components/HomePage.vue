@@ -1,3 +1,4 @@
+<!--Homepage Component-->
 <template>
     <div class="flex justify-center">
         <TopBar/>

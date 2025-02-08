@@ -1,6 +1,8 @@
+<!--Feed Placeholder Component-->
 <template>
-  <div class="w-120">
-    <div class="bg-[url(/assets/images/22.jpg)] h-140 bg-center object-contain hover:opacity-90">
+  <div>
+    <div class="w-100">
+    <div class="bg-[url(/assets/images/22.jpg)] h-140 bg-center object-contain hover:opacity-90"> <!--Placeholder Content-->
       <div class="p-2 flex items-center justify-between">
         <div class="flex items-center gap-3">
           <div>
@@ -53,5 +55,7 @@
     
     <span class="text-xs text-gray-400">January 1, 2025</span>
   </div>
+  </div>
+  
   
 </template>

@@ -1,3 +1,4 @@
+<!--Main Vue-->
 <script setup>
 import LoginForm from './components/LoginForm.vue';
 import VueFooter from './components/VueFooter.vue';
@@ -8,14 +9,14 @@ import HomePage from './components/HomePage.vue';
 
 <template>
   <div class="flex flex-col min-h-screen">
-    <div class="flex flex-grow justify-center items-center mt-12 w-full">
+    <div class="flex flex-grow justify-center items-center ">
       <div class="flex w-full flex-wrap justify-center">
         <div class="w-full lg:w-1/2 ">
           <div>
             <HomePage />
           </div>
         </div>
-        <div class="w-auto lg:w-1/2 p-4 justify-center flex">
+        <div class="w-auto lg:w-1/2 p-4 justify-center flex ">
           <div class="items-center m-auto">
               <LoginForm />
               <SignUpButton/>
