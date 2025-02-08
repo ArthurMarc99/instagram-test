@@ -2,7 +2,7 @@
     <nav class="bg-black w-120">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2">
             <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse hover:opacity-50">
-                <img :src="'/assets/images/instagram_word.png'" class="h-14" alt="Instagram" />
+                <img src="/assets/images/instagram_word.png" class="h-14" alt="Instagram" />
             </a>
             <div>
                 <ul class="flex gap-6">
